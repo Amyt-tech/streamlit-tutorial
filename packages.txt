@@ -4,5 +4,4 @@ libgl1-mesa-glx
 tesseract-ocr
 libtesseract-dev
 libtesseract4
-tesseract-ocr-all
-libtk8
+libtk8.6
