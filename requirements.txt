@@ -47,3 +47,4 @@ nltk
 pandas
 scikit-learn
 python-vlc
+skimage
