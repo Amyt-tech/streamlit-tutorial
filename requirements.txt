@@ -46,4 +46,4 @@ pytesseract
 nltk
 pandas
 scikit-learn
-vlc
+python-vlc
