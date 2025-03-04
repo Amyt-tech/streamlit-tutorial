@@ -49,3 +49,4 @@ scikit-learn
 python-vlc
 scikit-image
 filterpy
+python-dotenv
